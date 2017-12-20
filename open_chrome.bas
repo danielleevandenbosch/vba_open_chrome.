@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "open_chrome"
 Option Compare Text
 Option Explicit
 Public Sub open_chrome(Optional url As String = "about:blank")
